@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <rect x="0" y="0" width="48" height="48" rx="10" fill="#062236"/>
+  <!-- Atlantean submersible (matches the in-game hero ship) -->
+  <rect x="22" y="4" width="4" height="9" fill="#fff2b0"/>
+  <polygon points="6,24 6,40 16,32" fill="#ffb84d"/>
+  <polygon points="42,24 42,40 32,32" fill="#ffb84d"/>
+  <ellipse cx="24" cy="28" rx="15" ry="9" fill="#1fd6b5"/>
+  <ellipse cx="24" cy="33" rx="11" ry="5" fill="#0e9c84"/>
+  <ellipse cx="24" cy="20" rx="10" ry="8" fill="#bff7ff" opacity="0.95"/>
+  <ellipse cx="24" cy="22" rx="6" ry="4.5" fill="#6fe3ff" opacity="0.6"/>
+  <ellipse cx="24" cy="28" rx="15" ry="9" fill="none" stroke="#9bfff0" stroke-width="2" opacity="0.8"/>
+</svg>
